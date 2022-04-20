@@ -1,4 +1,5 @@
 - 👋 Hello everyone, I’m @findokan
+- 👨‍💻 Senior software engineer, works mostly ReactJS, .NET Core, Django
 - 👀 I’m interested in building some cool/usefull Saas/Mobile Applications
 - 🌱 I’m currently learning React-Native
 - 💞️ I’m looking to collaborate on writing some articles about Crypto/NFT/Web3.0'S
