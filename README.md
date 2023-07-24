@@ -1,5 +1,5 @@
 - Hello everyone, I’m @findokan
-- Software Engineer works as FullStack
+- Software Engineer
 - ReactJS enthusiast
 
 ## Here is my portfolio
